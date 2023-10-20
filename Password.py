@@ -1,0 +1,1 @@
+passwor = "" # Senha do e-mail
